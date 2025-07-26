@@ -1,7 +1,7 @@
 import { useGSAP } from '@gsap/react'
 import React, { useRef } from 'react'
-import { animateWithGsap } from '../utils/animations';
-import { explore1Img, explore2Img, exploreVideo } from '../utils';
+import { animateWithGsap } from '../utils/animations.js';
+import { explore1Img, explore2Img, exploreVideo } from '../utils/index.js';
 import gsap from 'gsap';
 
 const Features = () => {

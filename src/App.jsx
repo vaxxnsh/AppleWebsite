@@ -1,10 +1,10 @@
-import Hero from "./components/Hero"
-import Highlights from "./components/Highlights"
-import Navbar from "./components/Navbar"
-import Model from "./components/Model"
-import Features from "./components/Features"
-import HowItWorks from "./components/HowItWorks"
-import Footer from "./components/Footer"
+import Hero from "./components/Hero.jsx"
+import Highlights from "./components/Highlights.jsx"
+import Navbar from "./components/Navbar.jsx"
+import Model from "./components/Model.jsx"
+import Features from "./components/Features.jsx"
+import HowItWorks from "./components/HowItWorks.jsx"
+import Footer from "./components/Footer.jsx"
 
 function App() {
   
